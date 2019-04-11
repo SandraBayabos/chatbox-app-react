@@ -59,7 +59,8 @@ class App extends Component {
 const styles = {
   header: {
     textAlign: 'center',
-    fontFamily: 'Roboto Mono'
+    fontFamily: 'Roboto Mono',
+    color: 'white'
   },
   form: {
     textAlign: 'center'
